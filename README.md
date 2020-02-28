@@ -1,4 +1,5 @@
-# My_Url_Shortner
+# My_Url_Shortner [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 My_URL Shortner helps you to shorten the links and is very handy if you deal with lot of links in your daily life. Created using NodeJS, ExpressJS, and Mongoose
 
 # Local Setup
