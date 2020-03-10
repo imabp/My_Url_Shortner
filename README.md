@@ -1,4 +1,4 @@
-# MY LINK MANAGER [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# MY LINK MANAGER [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/abir.pal899@gmail.com)
 
 My_URL Shortner helps you to shorten the links and is very handy if you deal with lot of links in your daily life. Created using NodeJS, ExpressJS, and Mongoose
 
