@@ -14,7 +14,7 @@ My_URL Shortner helps you to shorten the links and is very handy if you deal wit
 
 ### Dev Dependencies
  1. Nodemon - used for live server.
- <code>npm -i --save-dev nodemon</code>
+ <code>npm i --save-dev nodemon</code>
  
 # Screenshot
 ![My_URL_Shortner](screenshot.PNG)
